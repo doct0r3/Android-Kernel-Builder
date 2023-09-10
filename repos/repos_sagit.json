@@ -1,8 +1,8 @@
 [
   {
     "kernelSource": {
-      "name": "sagit_ksu",
-      "repo": "https://github.com/LineageOS/android_kernel_xiaomi_msm8998",
+      "name": "sagit_ksu_hwbp",
+      "repo": "https://github.com/maoliaoiwanna/android_kernel_xiaomi_msm8998",
       "branch": "lineage-20",
       "device": "sagit",
       "defconfig": "sagit_defconfig"
@@ -39,8 +39,8 @@
     "AnyKernel3": {
       "use": true,
       "release": true,
-      "repo": "https://github.com/easterNday/AnyKernel3/",
-      "branch": "thyme"
+      "repo": "https://github.com/maoliaoiwanna/AnyKernel3/",
+      "branch": "master"
     }
   }
 ]
